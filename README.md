@@ -1,5 +1,18 @@
 # SNHU-System-Analysis-and-Design
 
+## <ins>**Course Description:**<ins>
+
+Students will explore the principles, methods, and techniques used in systems development so that they can create system models using appropriate industry tools. As a part of creating system models, students will also learn to effectively communicate technical concepts and design decisions to various audiences in a professional manner.
+
+## <ins>**Course Competencies:**<ins>
+
+This course covers the following competencies, which represent the knowledge and skills relevant to your field:
+
+    •CS-30404: Explain the principles, methods, and techniques of systems development
+    •CS-30405: Create various system models through the application of appropriate tools
+    •COM-20257: Present and articulate technical concepts to nontechnical audiences
+
+
 DriverPass is a company that wants to create a learning management system for students applying for their driving license exam. They want users to be able to take practice tests online, book in-person driving training online, have different training packages, and allow students to keep track of their own personal progress. There were more requirements that DriverPass wanted for this project.  
 My job in this project was creating a business requirements document, a model application paper, and a system design document. These documents would be lay the foundation for the development team to get started developing and coding the learning management system for DriverPass.
 For the business requirements document, there are a number of things I did well on, based on the feedback from my professor. Firstly, I created a Gantt chart that included a realistic schedule. I also described the interface requirements well, and I had clear communication throughout the paper. For the system design document, I used proper Unified Modeling Language notations for my diagrams, and I had clear communication throughout the document.

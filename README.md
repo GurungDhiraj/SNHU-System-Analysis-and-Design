@@ -12,11 +12,6 @@ This course covers the following competencies, which represent the knowledge and
     •CS-30419: Create interactive graphics applications that respond to input devices
     •CS-30420: Develop a fully formed three-dimensional project that meets project requirements
 
-    •CS-30404: Explain the principles, methods, and techniques of systems development
-    •CS-30405: Create various system models through the application of appropriate tools
-    •COM-20257: Present and articulate technical concepts to nontechnical audiences
-
-
 ## <ins>**Questions:**<ins>
 - Briefly summarize the DriverPass project. Who was the client?
     -	DriverPass is a company that wants to create a learning management system for students applying for their driving license exam. They want users to be able to take practice tests online, book in-person driving training online, have different training packages, and allow students to keep track of their own personal progress. There were more requirements that DriverPass wanted for this project.

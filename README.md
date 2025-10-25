@@ -2,11 +2,15 @@
 
 ## <ins>**Course Description:**<ins>
 
-Students will explore the principles, methods, and techniques used in systems development so that they can create system models using appropriate industry tools. As a part of creating system models, students will also learn to effectively communicate technical concepts and design decisions to various audiences in a professional manner.
+Students will create realistic, interactive, three-dimensional objects through the use of application programming interface (API) libraries and best practices. Students will also develop fully formed graphic applications that meet project requirements.
 
 ## <ins>**Course Competencies:**<ins>
 
 This course covers the following competencies, which represent the knowledge and skills relevant to your field:
+
+    •CS-30418: Generate accurate representations of three-dimensional objects using application programming interface libraries and computer graphics development best practices
+    •CS-30419: Create interactive graphics applications that respond to input devices
+    •CS-30420: Develop a fully formed three-dimensional project that meets project requirements
 
     •CS-30404: Explain the principles, methods, and techniques of systems development
     •CS-30405: Create various system models through the application of appropriate tools

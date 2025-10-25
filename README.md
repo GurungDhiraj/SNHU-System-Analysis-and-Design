@@ -24,7 +24,7 @@ This course covers the following competencies, which represent the knowledge and
     - For the business requirements document, there are a number of things I did well on, based on the feedback from my professor. Firstly, I created a Gantt chart that included a realistic schedule. I also described the interface requirements well, and I had clear communication throughout the paper. For the system design document, I used proper Unified Modeling Language notations for my diagrams, and I had clear communication throughout the document.
 
 - If you could choose one part of your work on these documents to revise, what would you pick?
-    - There were also things I didn’t do so well on, like the activity diagrams could have been improved. I needed to add logic to both activity diagrams such that the user did not have an unlimited number of attempts to try their login information.
+    - There were also things I didn’t do so well on, like the activity diagrams, which could have been improved. I needed to add logic to both activity diagrams such that the user did not have an unlimited number of attempts to try their login information.
 
 - How would you improve it?
     - If I were to design the system again, I would add a limit of 5 login attempts before the account is locked, and the user needs to verify themselves via email before trying to log in again.
